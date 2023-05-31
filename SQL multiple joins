@@ -21,6 +21,7 @@ WHERE C.city IN ('Aurora',
     'Sivas',
     'Celaya',
     'So Leopoldo')
+    
 GROUP BY A.customer_id,
   C.city,
   D.country
