@@ -5,4 +5,4 @@ Rockbuster Stealth LLC is a (fictional) movie rental company that was looking to
 ## Data
 The data was stored in a relational database made up of 17 tables containing information about customers, employees, and films rented.  For more information about the contents of these tables, please see the [entity relationship diagram (ERD)](ERD.jpeg) included in this repo.
 ## Deliverables
-I put together a [presentation](Business Managers Presentation.pdf) for the management board.  The visualizations used in the presentation were created using [Tableau](https://public.tableau.com/app/profile/david.heywood)
+I put together a [presentation](BusinessManagersPresentation.pdf) for the management board.  The visualizations used in the presentation were created using [Tableau](https://public.tableau.com/app/profile/david.heywood)
